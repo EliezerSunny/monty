@@ -8,7 +8,7 @@
  * Return: none
  */
 
-void f_pstr(stack_t **head, unsigned int counter)
+void f_funcc(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
 	(void)counter;
